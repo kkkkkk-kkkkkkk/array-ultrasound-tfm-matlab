@@ -27,6 +27,8 @@ Demo parameters: 64-element linear array, f0 = 5 MHz, fs = 40 MHz, c = 1540 m/s,
 
 Peak-position error ≤ 0.08 mm, i.e. below one grid step (0.12 mm). Axial resolution is sampling-limited at 0.24 mm; lateral width widens with depth as expected from a fixed aperture. `tfm_bmode.png` is the rendered output.
 
+![TFM B-mode of the 5-point phantom](tfm_bmode.png)
+
 ## Plugging in real data
 
 Only the acquisition step changes; the beamformer stays identical:
